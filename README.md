@@ -2,7 +2,7 @@
 
 ## About Me
 - Computer Science student
-- Interested in algorithms, systems, and problem solving
+- Interested in algorithms, systems, and problem-solving
 - Regularly solving DSA problems and building projects
 - Currently learning more about backend engineering and scalable systems
 
@@ -30,26 +30,10 @@
 - System Design
 
 ---
-
 ## Coding Profiles
 
 - LeetCode: https://leetcode.com/u/kyo_soma/
-
 ---
-
-## Featured Projects
-
-### Project Name
-Short 2–3 line description explaining:
-- what it does
-- what technologies were used
-- what problem it solves
-
-### Another Project
-Short description here.
-
----
-
 ## Currently Working On
 - Improving problem-solving speed
 - Building full-stack projects
