@@ -50,14 +50,6 @@ Short description here.
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnirudhAiysola&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnirudhAiysola&layout=compact)
-
----
-
 ## Currently Working On
 - Improving problem-solving speed
 - Building full-stack projects
