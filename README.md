@@ -22,6 +22,8 @@
 - Express
 - MongoDB
 - SQL
+- AWS
+- Docker
 
 ### Areas of Interest
 - Data Structures & Algorithms
