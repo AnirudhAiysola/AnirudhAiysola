@@ -4,7 +4,7 @@
 - Computer Science student
 - Interested in algorithms, systems, and problem-solving
 - Regularly solving DSA problems and building projects
-- Currently learning more about backend engineering and scalable systems
+- Currently learning more about full-stack engineering and scalable systems
 
 ---
 
@@ -12,6 +12,7 @@
 
 ### Languages
 - C++
+- JavaScript
 - TypeScript
 - Python
 
