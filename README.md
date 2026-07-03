@@ -1,4 +1,4 @@
-# Hi, I'm Anirudh 👋
+# Hi, I'm Sai Anirudh 👋
 
 ## About Me
 - Computer Science student
