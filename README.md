@@ -35,7 +35,7 @@
 ---
 ## Coding Profiles
 
-- LeetCode: https://leetcode.com/u/kyo_soma/
+- LeetCode: https://leetcode.com/u/kyo_o/
 ---
 ## Currently Working On
 - Improving problem-solving speed
