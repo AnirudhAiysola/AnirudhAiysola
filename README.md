@@ -25,6 +25,7 @@
 - SQL
 - AWS
 - Docker
+- Postgres
 
 ### Areas of Interest
 - Data Structures & Algorithms
