@@ -4,21 +4,24 @@
 - SWE
 - Interested in algorithms, systems, and problem-solving
 - Regularly solving DSA problems and building projects
-- Currently learning more about full-stack engineering and scalable systems
+- Currently learning more about software engineering and scalable systems
 
 ---
 
 ## Skills
 
 ### Languages
+- Java
 - C++
 - JavaScript
 - TypeScript
 - Python
 
 ### Technologies
+- Java
+- Spring & Spring Boot
+- Microservices
 - Git & GitHub
-- React
 - Node.js
 - Express
 - MongoDB
@@ -39,9 +42,9 @@
 - LeetCode: https://leetcode.com/u/kyo_o/
 ---
 ## Currently Working On
-- Improving problem-solving speed
-- Building full-stack projects
-- Learning system design concepts
+- Java and Spring Ecosystem
+- Building projects
+- Learning system design
 
 ---
 
