@@ -2,9 +2,9 @@
 
 ## About Me
 - SWE
-- Interested in algorithms, systems, and problem-solving
+- Interested in algorithms, Distributed systems, and problem-solving
 - Regularly solving DSA problems and building projects
-- Currently learning more about software engineering and scalable systems
+- Currently learning more about software engineering, distributed systems, AI/ML, and Infra
 
 ---
 
@@ -12,15 +12,16 @@
 
 ### Languages
 - Java
+- - Python
 - C++
 - JavaScript
 - TypeScript
-- Python
 
 ### Technologies
 - Java
 - Spring & Spring Boot
 - Microservices
+- Kafka
 - Git & GitHub
 - Node.js
 - Express
@@ -31,9 +32,9 @@
 - Postgres
 
 ### Areas of Interest
-- Data Structures & Algorithms
-- Competitive Programming
+- Distributed Systems & Infra
 - Backend Development
+- AI/ML
 - System Design
 
 ---
