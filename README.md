@@ -12,7 +12,7 @@
 
 ### Languages
 - Java
-- - Python
+- Python
 - C++
 - JavaScript
 - TypeScript
