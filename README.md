@@ -2,7 +2,7 @@
 
 ## About Me
 - SWE
-- Interested in algorithms, Distributed systems, and problem-solving
+- Interested in algorithms, distributed systems, AI/ML and problem-solving
 - Regularly solving DSA problems and building projects
 - Currently learning more about software engineering, distributed systems, AI/ML, and Infra
 
@@ -22,6 +22,7 @@
 - Spring & Spring Boot
 - Microservices
 - Kafka
+- Python
 - Git & GitHub
 - Node.js
 - Express
